@@ -39,9 +39,20 @@ To run this project, you'll need to have Node.js installed on your machine. If y
      ```
    - Ignore any vulnerabilities that might be reported. The initial load might take some time.
 
-## Usage
+## Features and Usage
 
-Once the backend and frontend servers are up and running, you can access the app in your browser at `http://localhost:3000`. The backend server will be listening for queries at `http://localhost:4000`.
+Once both backend and frontend servers are running, you can access the app in your browser at `http://localhost:3000`. The backend server handles queries at `http://localhost:4000`.
+
+The application's features include:
+- Selecting your current station and desired destination.
+- Efficient route planning for your subway journey.
+
+## Technologies Used
+
+This project utilizes a range of technologies, including:
+- Backend: Node.js, Express.js
+- Frontend: React.js, Tailwind CSS
+- Database: MongoDB
 
 ## Architecture and Design
 
