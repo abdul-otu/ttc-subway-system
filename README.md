@@ -71,7 +71,7 @@ The TTC Subway System project follows a MVC design. The frontend and backend com
 
 ## Portfolio
 
-For more projects and information about me, check out my [Software Engineer Portfolio](https://your-portfolio-link-here.com).
+For more projects and information about me, check out my [Portfolio](#).
 
 ## Contact
 
